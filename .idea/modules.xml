@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicWeb/dynamicWeb.iml" filepath="$PROJECT_DIR$/dynamicWeb/dynamicWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticWeb/staticWeb.iml" filepath="$PROJECT_DIR$/staticWeb/staticWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testModule1/testModule1.iml" filepath="$PROJECT_DIR$/testModule1/testModule1.iml" />
+    </modules>
+  </component>
+</project>
