@@ -11,4 +11,7 @@ public class DemoController {
     public void testCommit() {
         System.out.println("测试IDEA的提交操作！");
     }
+    public void testCommit2() {
+        System.out.println("测试IDEA的提交操作222！");
+    }
 }
