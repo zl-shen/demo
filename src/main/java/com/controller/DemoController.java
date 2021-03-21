@@ -15,6 +15,7 @@ public class DemoController {
 
 
     //测试提交12
+    //测试拉取12
     //模板六：prsf:定义一个私有的静态常量
     private static final Custom CUSTOM = new Custom();
         //变形：psf:定义一个公有的静态常量
